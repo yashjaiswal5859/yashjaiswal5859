@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 **M.Tech in Data Science** @ NIT Jamshedpur | 8.4 CGPA<\br>
+🎓 **M.Tech in Data Science** @ NIT Jamshedpur | 8.4 CGPA
 💼 **SDE Intern @ [Sanas.AI](https://sanas.ai)**  
 🏆 **Top 4% LeetCode (Knight)** | **Top 1% GeeksForGeeks (4⭐)** | **2500+ Problems Solved**  
 🌐 **Full-Stack Developer** - MERN, React Native, NestJS, Django  
