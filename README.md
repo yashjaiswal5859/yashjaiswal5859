@@ -6,8 +6,8 @@
 
 ### 👨‍💻 About Me
 
-🎓 **M.Tech in Data Science** @ NIT Jamshedpur | **B.Tech in CSE** (8.1 CGPA)  
-💼 **Ex-SDE Intern @ [Sanas.AI](https://sanas.ai)** - Real-time Voice AI (Series B Startup)  
+🎓 **M.Tech in Data Science** @ NIT Jamshedpur | 8.4 CGPA
+💼 **SDE Intern @ [Sanas.AI](https://sanas.ai)**  
 🏆 **Top 4% LeetCode (Knight)** | **Top 1% GeeksForGeeks (4⭐)** | **2500+ Problems Solved**  
 🌐 **Full-Stack Developer** - MERN, React Native, NestJS, Django  
 🤖 **ML Enthusiast** - NLP, Deep Learning, Computer Vision  
@@ -25,7 +25,6 @@
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -40,10 +39,18 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 
 **ML/AI:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2318BDBB.svg?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23154f3c.svg?style=flat&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
@@ -54,9 +61,9 @@
 
 ### 🚀 Featured Projects
 
-🔹 **[LiveTrack](https://github.com/yashjaiswal5859/livetrack)** - Real-time location monitoring with React Native & AWS DynamoDB  
-🔹 **[DeepSentiment](https://github.com/yashjaiswal5859/sentiment-analysis)** - LSTM-based sentiment analysis (90% accuracy) with production API  
-🔹 **[SmartCompare](https://coruscating-bonbon-7b8611.netlify.app/)** - E-commerce product comparison platform with web scraping  
+🔹 **[LiveTrack]** - Real-time location monitoring with React Native & AWS DynamoDB  
+🔹 **[DeepSentiment]** - LSTM-based sentiment analysis (90% accuracy) with production API  
+🔹 **[SmartCompare]** - E-commerce product comparison platform with web scraping  
 
 ---
 
@@ -103,5 +110,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yashjaiswal5859&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
-  **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 </div>
