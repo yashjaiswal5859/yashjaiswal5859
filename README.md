@@ -69,14 +69,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashjaiswal5859&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashjaiswal5859&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjaiswal5859&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=yashjaiswal5859&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yashjaiswal5859&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjaiswal5859&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
