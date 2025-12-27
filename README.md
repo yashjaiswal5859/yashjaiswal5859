@@ -58,8 +58,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashjaiswal5859&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🚀 Featured Projects
 
@@ -92,6 +90,8 @@
 
 ---
 
+### : Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 🤝 Let's Connect
 
 <div align="center">
