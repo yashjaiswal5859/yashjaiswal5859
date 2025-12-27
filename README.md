@@ -58,6 +58,8 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
+## :trophy: GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yashjaiswal5859&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🚀 Featured Projects
 
